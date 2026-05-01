@@ -11,7 +11,7 @@
 | 분류 | 쓰는 언어(바이브코딩) |
 | :--- | :--- |
 | **주언어** | Luau, Lua |
-| **서브언어** | JavaScript, TypeScript, C |
+| **서브언어** | JavaScript, TypeScript, |
 <br>
 
 ### 🛠 Tools
